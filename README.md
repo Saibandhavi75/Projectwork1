@@ -54,17 +54,29 @@ Through this innovative approach, the project aims not only to improve the immed
 
 ## Articles published / References
  [1] Al-Khater, K. M., & Yusof, R. (2020). AI-based health monitoring system for confined environments in marine vessels. Ocean Engineering, 208, 107449.Ali, M., & Said, R. (2019). Real-time monitoring and control system for submarine environments using AI. Sensors, 19(24), 5384.
+
 [2] Andreev, A. N., & Krylov, V. (2017). AI-powered air quality management in underwater vehicles. Journal of Marine Science and Engineering, 5(4), 56.Ashraf, A., & Ikram, M. (2020). Submarine interior environmental monitoring using artificial intelligence. Marine Technology Society Journal, 54(2), 22-33.
+
 [3]. "Central Atmosphere Monitoring System." U.S. Naval Research Laboratory. 28 November 2018. https://www.nrl.navy.mil/accomplishments/materials/atmosphere-monitoring/
+
 [4]. Serratella C., Wang G., Tikka K. (2009). Risk-based Inspection and Maintenance of Aged Structures, Condition Assessment of Aged Structures, Cambridge, UK: Ed. Paik & Melchers, Woodhead Publishing Ltd. [This is an introduction to risk based approaches for inspection, maintenance and repair of aging marine / offshore assets.] TSCF (1986). 
+
 [5]. Vehicle Cabin Atmosphere Monitor." NASA, 2018. https://www.nasa.gov/mission_pages/station/research/experiments/35.html
+
 [6]. Identification, definition and quantification of goods and services provided by marine biodiversity: Implications for the ecosystem approach Mar. Pollut. Bull., 54 (3) (2007), pp. 253–265.
+
 [7] Paul J Rizzo, Plan to Reform Support Ship Repair and Management Practices Commonwealth of Australia, July 2011.
+
 [8] Andrich G, Zinnai A, Balzini S, Silvestri S, Fiorentini R. 1998. Aerobic respiration rate of Golden Delicious apples as a function of temperature and pO2. Postharvest Biology and Technology
+
 [9] Ship Structure Committee, SSC–419, Supplemental Commercial Design Guidance For Fatigue, 2002
+
 [10]. J. M. Forestier and S. Austin, ( University of Southampton), European Maritime Data Management (EMDM), D20-D21-D22 – Hull Structure Monitoring System and VDR, Sixth Framework Programme, Report, 038374, 7th December 2009.
+
 [11] R. A. Hechtman, Thermal Stresses in Ships, Ship Structure Committee Publication,SSC-95, October 1956.
+
 [12]. T. Magoga and C. Flockhart, Ultimate Strength Calculations of an Aluminium Patrol.Boat, Pacific 2012 International Maritime Conference, 31 January – 2 February 2012.
+
 [13] Brüel & Kjær a Design Development Agreement to deliver a Hull Vibration Monitoring System (HVME) for the UK Royal Navy's Type 26 Global Combat Ship (T26 GCS)
 
 
