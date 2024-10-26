@@ -1,6 +1,5 @@
 
-## Title of the Project
-Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI
+## Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI
 
 ## About
 The "Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI" project aims to enhance the safety and operational efficiency of submarines by continuously monitoring essential environmental parameters within the cabin. Utilizing advanced AI algorithms, the system analyzes data such as temperature, humidity, air quality, and pressure in real-time. This proactive monitoring helps identify anomalies quickly, ensuring a safe and comfortable environment for crew members during missions.
@@ -33,7 +32,7 @@ Reliability: High system uptime and fault tolerance, ensuring continuous operati
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+
 
 ![output](https://github.com/user-attachments/assets/ab6031b8-4d1e-4753-b67d-8c7963e66ef5)
 
