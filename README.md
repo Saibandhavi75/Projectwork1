@@ -57,7 +57,7 @@ Through this innovative approach, the project aims not only to improve the immed
 
 [2] Andreev, A. N., & Krylov, V. (2017). AI-powered air quality management in underwater vehicles. Journal of Marine Science and Engineering, 5(4), 56.Ashraf, A., & Ikram, M. (2020). Submarine interior environmental monitoring using artificial intelligence. Marine Technology Society Journal, 54(2), 22-33.
 
-[3]. "Central Atmosphere Monitoring System." U.S. Naval Research Laboratory. 28 November 2018. https://www.nrl.navy.mil/accomplishments/materials/atmosphere-monitoring/
+[3]. "Central Atmosphere Monitoring System." U.S. Naval Research Laboratory.28 November 2018. https://www.nrl.navy.mil/accomplishments/materials/atmosphere-monitoring/
 
 [4]. Serratella C., Wang G., Tikka K. (2009). Risk-based Inspection and Maintenance of Aged Structures, Condition Assessment of Aged Structures, Cambridge, UK: Ed. Paik & Melchers, Woodhead Publishing Ltd. [This is an introduction to risk based approaches for inspection, maintenance and repair of aging marine / offshore assets.] TSCF (1986). 
 
