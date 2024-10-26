@@ -1,58 +1,74 @@
+
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The "Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI" project aims to enhance the safety and operational efficiency of submarines by continuously monitoring essential environmental parameters within the cabin. Utilizing advanced AI algorithms, the system analyzes data such as temperature, humidity, air quality, and pressure in real-time. This proactive monitoring helps identify anomalies quickly, ensuring a safe and comfortable environment for crew members during missions.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Real-Time Monitoring: Continuous tracking of critical parameters such as temperature, humidity, oxygen levels, and carbon dioxide concentrations.
+AI-Powered Analytics: Machine learning algorithms that analyze trends and detect anomalies in the monitored data.
+Alerts and Notifications: Immediate alerts sent to crew members and control systems when parameters exceed safe thresholds.
+Data Visualization: Intuitive dashboards displaying real-time data, historical trends, and alerts for easy monitoring.
+Integration with Existing Systems: Seamless integration with submarine navigation and control systems to enhance situational awareness.
+Remote Access Capabilities: Authorized personnel can access monitoring data remotely for real-time decision-making, even from shore.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+Functional Requirements:
+Monitoring of cabin environmental parameters.
+Data logging for historical analysis.
+User interface for real-time data visualization and alert management.
+Non-Functional Requirements:
+Performance: Real-time processing with minimal latency.
+Security: Robust security measures to protect data integrity and confidentiality.
+Reliability: High system uptime and fault tolerance, ensuring continuous operation.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Picture2](https://github.com/user-attachments/assets/445fc1af-b9e6-41fe-844a-615414e89f23)
 
+
+![Picture1](https://github.com/user-attachments/assets/e3312c7d-8840-41e1-b45e-1544cde53ee7)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![output](https://github.com/user-attachments/assets/ab6031b8-4d1e-4753-b67d-8c7963e66ef5)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The implementation of the "Real-Time Critical Parameter Monitoring in Submarine Cabins Using AI" project is expected to yield several positive outcomes:
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Enhanced Safety: Early detection of hazardous conditions leads to prompt action, significantly increasing crew safety.
+Improved Operational Efficiency: By maintaining optimal cabin conditions, crew performance and morale can be improved during extended missions.
+Data-Driven Insights: Historical data analysis will provide insights for improving submarine design and operational protocols.
+Broader Implications: The technologies developed may be applicable in other high-risk environments, such as space missions or deep-sea exploration, enhancing safety protocols in these areas as well.
+Through this innovative approach, the project aims not only to improve the immediate operational conditions in submarines but also to set a new standard for safety and efficiency in marine environments.
+
+
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+ [1] Al-Khater, K. M., & Yusof, R. (2020). AI-based health monitoring system for confined environments in marine vessels. Ocean Engineering, 208, 107449.Ali, M., & Said, R. (2019). Real-time monitoring and control system for submarine environments using AI. Sensors, 19(24), 5384.
+[2] Andreev, A. N., & Krylov, V. (2017). AI-powered air quality management in underwater vehicles. Journal of Marine Science and Engineering, 5(4), 56.Ashraf, A., & Ikram, M. (2020). Submarine interior environmental monitoring using artificial intelligence. Marine Technology Society Journal, 54(2), 22-33.
+[3]. "Central Atmosphere Monitoring System." U.S. Naval Research Laboratory. 28 November 2018. https://www.nrl.navy.mil/accomplishments/materials/atmosphere-monitoring/
+[4]. Serratella C., Wang G., Tikka K. (2009). Risk-based Inspection and Maintenance of Aged Structures, Condition Assessment of Aged Structures, Cambridge, UK: Ed. Paik & Melchers, Woodhead Publishing Ltd. [This is an introduction to risk based approaches for inspection, maintenance and repair of aging marine / offshore assets.] TSCF (1986). 
+[5]. Vehicle Cabin Atmosphere Monitor." NASA, 2018. https://www.nasa.gov/mission_pages/station/research/experiments/35.html
+[6]. Identification, definition and quantification of goods and services provided by marine biodiversity: Implications for the ecosystem approach Mar. Pollut. Bull., 54 (3) (2007), pp. 253–265.
+[7] Paul J Rizzo, Plan to Reform Support Ship Repair and Management Practices Commonwealth of Australia, July 2011.
+[8] Andrich G, Zinnai A, Balzini S, Silvestri S, Fiorentini R. 1998. Aerobic respiration rate of Golden Delicious apples as a function of temperature and pO2. Postharvest Biology and Technology
+[9] Ship Structure Committee, SSC–419, Supplemental Commercial Design Guidance For Fatigue, 2002
+[10]. J. M. Forestier and S. Austin, ( University of Southampton), European Maritime Data Management (EMDM), D20-D21-D22 – Hull Structure Monitoring System and VDR, Sixth Framework Programme, Report, 038374, 7th December 2009.
+[11] R. A. Hechtman, Thermal Stresses in Ships, Ship Structure Committee Publication,SSC-95, October 1956.
+[12]. T. Magoga and C. Flockhart, Ultimate Strength Calculations of an Aluminium Patrol.Boat, Pacific 2012 International Maritime Conference, 31 January – 2 February 2012.
+[13] Brüel & Kjær a Design Development Agreement to deliver a Hull Vibration Monitoring System (HVME) for the UK Royal Navy's Type 26 Global Combat Ship (T26 GCS)
+
+
 
 
 
